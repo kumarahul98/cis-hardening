@@ -3,12 +3,12 @@ Hardens All Linux based operating systems
 
 ## Steps
 
-1. Clone the reppository
-      `git clone https://github.com/kumarahul98/cis-hardening.git`
-3. Cd into the repository
-      `cd cis-hardening`
-5. Run the script
-      `bash main.sh`
+1. Clone the reppository <br />
+      `git clone https://github.com/kumarahul98/cis-hardening.git` <br />
+3. Cd into the repository <br />
+      `cd cis-hardening` <br />
+5. Run the script <br />
+      `bash main.sh` <br />
 
 ##Credits
 [@Kumarahul98](https://github.com/kumarahul98)
